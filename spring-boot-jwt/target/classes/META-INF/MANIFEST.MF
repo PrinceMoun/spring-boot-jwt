@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-jwt
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PRINCE
+Implementation-Vendor-Id: com.meddo
+Build-Jdk: 1.8.0_261
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
